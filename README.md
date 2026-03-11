@@ -1,7 +1,9 @@
 ## Hi everyone 👋
 
-- 🌱 I’m currently learning rust and solana
-- 👯 I’m looking for web3 job opportunities.
+- 🌱 I’m currently learning rust,solana and AI
+- 👯 I’m looking for web3 job opportunities.My email:  cuiyuhui123@qq.com
+- ⚡ I have experience with NFT, lending, DEX and related projects.
+- 📫 I have experience with wallet, orderbook, CEX and related projects.
 - 😄 I’m a backend developer,and I have a lot of knowledge about front-end development.
 - 🤔 skill: solidity、go、java、javascript
 
@@ -9,6 +11,7 @@
 
 ## Get in touch
 [![CSDN](https://img.shields.io/badge/csdn-orange)](https://blog.csdn.net/c364902709/)
+
 <!--
 **yhcui/yhcui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
