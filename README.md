@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi everyone 👋
+
+- 🌱 I’m currently learning rust and solana
+- 👯 I’m looking for web3 job opportunities.
+- 😄 I’m a backend developer,and I have a lot of knowledge about front-end development.
+- 🤔 skill: solidity、go、java、javascript
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhcui&langs_count=8)
 
 <!--
 **yhcui/yhcui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
