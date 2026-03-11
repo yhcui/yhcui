@@ -11,7 +11,7 @@
 
 ## Get in touch
 [![CSDN](https://img.shields.io/badge/csdn-orange)](https://blog.csdn.net/c364902709/)
-[![github](https://img.shields.io/badge/github-blue)](https://github.com/yhcui/)
+[![github](https://img.shields.io/badge/github-blue)]([https://github.com/yhcui/](https://yhcui.github.io/))
 
 <!--
 **yhcui/yhcui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
