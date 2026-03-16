@@ -1,7 +1,7 @@
 ## Hi everyone 👋
 - ⚡ 我是一个中国人. I am a Chinese
 - 🌱 I’m currently learning rust,solana and AI
-- 👯 I’m looking for remote web3 job opportunities.My email:  cuiyuhui123@qq.com
+- 👯 I’m looking for remote web3 part-time job opportunities.My email:  cuiyuhui123@qq.com
 - ⚡ I have experience with NFT, lending, DEX and related projects.
 - 📫 I have experience with wallet, orderbook, CEX and related projects.
 - 😄 I’m a backend developer,and I have a lot of knowledge about front-end development.
