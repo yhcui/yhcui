@@ -10,8 +10,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhcui&langs_count=8)
 
 ## Get in touch
-[![CSDN](https://img.shields.io/badge/csdn-orange)](https://blog.csdn.net/c364902709/)
-[![GitHub](https://img.shields.io/badge/github-blue)](https://yhcui.github.io/)
+[![zhihu](https://img.shields.io/badge/zhihu-blue)](https://www.zhihu.com/people/zg4vyifc)  Focus on web3 And AI,but chinese  
+
+[![CSDN](https://img.shields.io/badge/csdn-orange)](https://blog.csdn.net/c364902709/)  Blog related to backend development and operation and maintenance  
+
+[![GitHub](https://img.shields.io/badge/github-blue)](https://yhcui.github.io/) My github homepage    
+
+
 
 <!--
 **yhcui/yhcui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
